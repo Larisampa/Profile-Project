@@ -1,0 +1,1 @@
+O texto não saiu de forma alinhada conforme a aula, após pesquisa na internet, eu realizei o ajuste com o codigo TEXT-ALIGN:CENTER; e aumentei a fonte com o codigo FONT-SIZE:30PX;
